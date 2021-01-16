@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io</id>
+    <id>https://cdn.jsdelivr.net/gh/xjsun1221</id>
     <title>小洁忘了怎么分身</title>
-    <updated>2021-01-16T15:16:36.357Z</updated>
+    <updated>2021-01-16T15:17:06.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io"/>
-    <link rel="self" href="https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io/atom.xml"/>
+    <link rel="alternate" href="https://cdn.jsdelivr.net/gh/xjsun1221"/>
+    <link rel="self" href="https://cdn.jsdelivr.net/gh/xjsun1221/atom.xml"/>
     <subtitle>花花</subtitle>
-    <logo>https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io/images/avatar.png</logo>
-    <icon>https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io/favicon.ico</icon>
+    <logo>https://cdn.jsdelivr.net/gh/xjsun1221/images/avatar.png</logo>
+    <icon>https://cdn.jsdelivr.net/gh/xjsun1221/favicon.ico</icon>
     <rights>All rights reserved 2021, 小洁忘了怎么分身</rights>
     <entry>
         <title type="html"><![CDATA[ggplot作图初启动]]></title>
-        <id>https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io/ggplot-01/</id>
-        <link href="https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io/ggplot-01/">
+        <id>https://cdn.jsdelivr.net/gh/xjsun1221/ggplot-01/</id>
+        <link href="https://cdn.jsdelivr.net/gh/xjsun1221/ggplot-01/">
         </link>
         <updated>2021-01-16T14:07:02.000Z</updated>
         <content type="html"><![CDATA[<p>微信公众号生信星球同步更新我的文章，欢迎大家扫码关注！<br>
@@ -116,8 +116,8 @@ grid.arrange(p_plot,p_line,p_density, p_boxplot, p_violin,nrow=3)
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io/hello-gridea/</id>
-        <link href="https://cdn.jsdelivr.net/gh/xjsun1221/xjsun1221.github.io/hello-gridea/">
+        <id>https://cdn.jsdelivr.net/gh/xjsun1221/hello-gridea/</id>
+        <link href="https://cdn.jsdelivr.net/gh/xjsun1221/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
